@@ -1,0 +1,11 @@
+D:\belajar vb.net\countdown\countdown\bin\Debug\countdown.exe
+D:\belajar vb.net\countdown\countdown\bin\Debug\countdown.pdb
+D:\belajar vb.net\countdown\countdown\bin\Debug\countdown.xml
+D:\belajar vb.net\countdown\countdown\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\belajar vb.net\countdown\countdown\obj\x86\Debug\countdown.Form1.resources
+D:\belajar vb.net\countdown\countdown\obj\x86\Debug\countdown.Resources.resources
+D:\belajar vb.net\countdown\countdown\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\belajar vb.net\countdown\countdown\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\belajar vb.net\countdown\countdown\obj\x86\Debug\countdown.exe
+D:\belajar vb.net\countdown\countdown\obj\x86\Debug\countdown.xml
+D:\belajar vb.net\countdown\countdown\obj\x86\Debug\countdown.pdb
